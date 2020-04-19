@@ -1,1 +1,2 @@
 # Thrid3Home-Work
+in this homework, I used to do a password generator. my goal is to make function to make genterte work and to make html work with JS. I started scratch buds from every CSS, JS and HTML page I have one funcation that contains math. Random and ground which are mehtod ready to use in js. Also I have to work with the DOM to set the length and slider alignment as well
